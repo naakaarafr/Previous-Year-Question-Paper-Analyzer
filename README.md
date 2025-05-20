@@ -153,7 +153,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ## 📫 Support
 
-For bugs or feature requests, please open an issue on GitHub or contact \[[your.email@example.com](mailto:your.email@example.com)].
+For bugs or feature requests, please open an issue on GitHub or contact \[[divvyanshkudesiaa1@gmail.com](divvyanshkudesiaa1@gmail.com)].
 
 ```
 ```
