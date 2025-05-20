@@ -28,8 +28,7 @@ AI‑powered PDF & PPTX Question Paper Analyzer with Chat Interface
    ```bash
    git clone https://github.com/naakaarafr/Previous-Year-Question-Paper-Analyzer.git
    cd Previous-Year-Question-Paper-Analyzer
-
-
+   ```
 
 2. **Create & activate virtualenv**
 
