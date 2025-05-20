@@ -6,7 +6,7 @@ AI‑powered PDF & PPTX Question Paper Analyzer with Chat Interface
 
 ## 📖 Overview
 
-**PyQ Analyzer** lets you upload PDF and PowerPoint files (`.pdf`, `.pptx`, `.ppt`), extract text (with OCR support for scanned docs), and build semantic vector embeddings. Powered by Google’s Gemini via LangChain and FAISS, it provides an interactive chat interface so you can ask questions and get context‑aware answers drawn directly from your documents. Built with Streamlit for a sleek, user‑friendly UI.
+**PYQ Analyzer** lets you upload PDF and PowerPoint files (`.pdf`, `.pptx`, `.ppt`), extract text (with OCR support for scanned docs), and build semantic vector embeddings. Powered by Google’s Gemini via LangChain and FAISS, it provides an interactive chat interface so you can ask questions and get context‑aware answers drawn directly from your documents. Built with Streamlit for a sleek, user‑friendly UI.
 
 ---
 
@@ -26,8 +26,10 @@ AI‑powered PDF & PPTX Question Paper Analyzer with Chat Interface
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/pyq-analyzer.git
-   cd pyq-analyzer
+   git clone https://github.com/naakaarafr/Previous-Year-Question-Paper-Analyzer
+.git
+   cd Previous-Year-Question-Paper-Analyzer
+
 
 
 2. **Create & activate virtualenv**
