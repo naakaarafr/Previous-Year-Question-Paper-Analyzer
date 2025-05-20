@@ -1,4 +1,4 @@
-# Previous Year Question Paper Analyzer
+# Previous-Year-Question-Paper Analyzer
 
 AI‑powered PDF & PPTX Question Paper Analyzer with Chat Interface
 
