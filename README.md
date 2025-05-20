@@ -26,8 +26,7 @@ AI‑powered PDF & PPTX Question Paper Analyzer with Chat Interface
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/naakaarafr/Previous-Year-Question-Paper-Analyzer
-.git
+   git clone https://github.com/naakaarafr/Previous-Year-Question-Paper-Analyzer.git
    cd Previous-Year-Question-Paper-Analyzer
 
 
